@@ -1,3 +1,3 @@
-# DIP-Project
+# DIP- Project
 Gestured based games
 
